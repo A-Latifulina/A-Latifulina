@@ -6,4 +6,4 @@ I thought, how nice it'd be to have my work & never shlep it. <br>
 So, I turned to digital media. <br>
 Eventually, software became the medium & the message. <br>
 <br>
-Nowadays, I like to study software, specifically standards & security. <br></p>
+Nowadays, I like to study software, specifically standards, protocols, & security. <br></p>
